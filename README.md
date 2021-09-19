@@ -11,3 +11,5 @@ Fishnite is an educational game written in Java. First, as a steward you will di
 ## Authors
 
 Nick Napior, Vincent Sargeni, Andrew Crossman, Kevin Faucher, & Marc Bolinas
+
+Additional Files can be found in the master-branch: https://github.com/CISC275-Fall-2018/Fall-2018-Team11-4.git
